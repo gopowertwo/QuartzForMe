@@ -7,7 +7,7 @@ interface Definitions {
 	public static final String hours_error = "Hours must be between 1 and 24.";
 	public static final String days_error = "Day must be between 1 and 31.";
 	public static final String months_error = "Month must be between 1 and 12.";
-	public static final String dayofweek_error = "Day of the week must be one of MON, TUE,...SUN.";
+	public static final String dayofweek_error = "Day of the week must be one of MON, TUE, ...SUN.";
 	public static final String year_error = "Year must be a valid one.";
 
 	public static final int Sunday = 1;
